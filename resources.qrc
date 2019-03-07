@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Folder-icon.png</file>
+        <file>pause.png</file>
+        <file>play-button.png</file>
+        <file>stop-2.png</file>
+        <file>../icons/forward.png</file>
+        <file>../icons/rewind.png</file>
+    </qresource>
+</RCC>
